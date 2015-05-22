@@ -1,2 +1,2 @@
 # Doom-Squad
-Platformer game made with Unity.
+Platformer game made with Unity :D
