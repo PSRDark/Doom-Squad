@@ -16,4 +16,17 @@ public class IChecker : MonoBehaviour {
         }
         return null;
     }
+    public static IDamageable IDamageable(GameObject collider)
+    {
+        MonoBehaviour[] mbs = collider.GetComponents<MonoBehaviour>();
+        foreach (MonoBehaviour mb in mbs)
+        {
+            if (mb is IDamageable)
+            {
+                IDamageable idamageable = mb as IDamageable;
+                return idamageable;
+            }
+        }
+        return null;
+    }
 }
