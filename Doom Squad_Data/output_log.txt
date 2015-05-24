@@ -1,0 +1,136 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     1986 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Propietario\Desktop\Bolito2\Juegos\Doom Squad\Doom Squad_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Propietario\Desktop\Bolito2\Juegos\Doom Squad\Doom Squad_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Propietario\Desktop\Bolito2\Juegos\Doom Squad\Doom Squad_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Propietario\Desktop\Bolito2\Juegos\Doom Squad\Doom Squad_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Propietario\Desktop\Bolito2\Juegos\Doom Squad\Doom Squad_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Propietario\Desktop\Bolito2\Juegos\Doom Squad\Doom Squad_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Propietario\Desktop\Bolito2\Juegos\Doom Squad\Doom Squad_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Propietario\Desktop\Bolito2\Juegos\Doom Squad\Doom Squad_Data\Managed\System.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerMovement+<ActivateGravity>c__Iterator5.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerMovement+<ActivateGravity>c__Iterator5.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+i died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+i died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+i died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+i died
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.Damage (UnityEngine.Collider2D gameObjectToDamage) [0x00000] in <filename unknown>:0 
+  at Enemy.OnCollisionEnter2D (UnityEngine.Collision2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
